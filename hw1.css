@@ -1,0 +1,31 @@
+/*HOME WORK ASSIGNMENT*/
+/*to remove an image */
+img  {
+        display: none;
+    }
+a{
+    color:  #000000;
+}
+nav{
+    text-align: center;
+}
+header{
+    color: #207B78;
+    background-color:#2E8B57; 
+}
+nav{
+    color:  #000000;
+}
+h1{
+    text-align: center;
+    color: #FF0000;
+}
+h1,h2{
+    text-transform: uppercase;
+}
+h2{
+    color:#800000;
+}
+section{
+    background-color: #40E0D0;
+}
